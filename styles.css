@@ -1,0 +1,87 @@
+#nav1 {
+	border-radius:0px;
+}	
+}
+form.d-flex,input {
+	width:1000px;
+}
+form .btn {
+	width:500px;
+	background-color:#1B8BCF ;
+}
+.electronics .container {
+	padding: 20px;
+	background-color:#F1F1F1;
+}
+.container h4 {
+	color:#808080;
+}
+.flex{
+	width:17%;
+}
+.box{
+	width: 250px;
+	box-shadow: 0px 0px 1.5px 0px rgba(0, 0, 0, 0.2);
+}
+hr.hr1 {
+	border-top: 0.5px solid;
+	margin-left:20px;
+	margin-right:20px;
+	opacity: 0.1;
+}
+hr.hr2 {
+	border-top: 0.5px;
+	margin-left:20px;
+	margin-right:20px;
+	opacity: 0.1;
+}
+.badge {
+	background-color:#E5E4E2;
+	color:black;
+	border-radius:20px;
+}
+a {
+	text-decoration:none;
+	color:black;
+}
+a:hover {
+	text-decoration:none;
+	color:black;
+}
+.pagination {
+	font-size:17px;
+	
+}
+#r1{
+	position:relative;
+	left:257px;
+}
+#r2 {
+	width:1075px;
+	position:relative;
+	left:220px;
+}
+#box01 {
+	width:340px;
+}
+#box02 {
+	width:340px;
+	position:relative;
+	left:95px;
+}
+#box03 {
+	width:340px;
+	position:relative;
+	left:190px;
+}
+img {
+	padding-left:100px;
+}
+.fa-star {
+	color:#E5E4E2;
+	font-size:15px;
+	padding-bottom:20px;
+}
+.checked {
+	color:blue;
+}
